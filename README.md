@@ -1,1 +1,1 @@
-# concealedcarry
+An exploration of concealed carry laws using the dataset: Steidley, Trent. Concealed Carry Weapons License Database. Ann Arbor, MI: Inter-university Consortium for Political and Social Research [distributor], 2021-10-09. https://doi.org/10.3886/E149062V1
